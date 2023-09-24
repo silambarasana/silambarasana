@@ -4,7 +4,7 @@ Hi 👋 My name is Silambarasan A
 Data Analyst
 ------------
 
-I am a machine learning enthusiastic who loves learning future technology
+I am a enthusiastic who loves to learn future technologies..
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [onesilambarasan@gmail.com](mailto:onesilambarasan@gmail.com)
